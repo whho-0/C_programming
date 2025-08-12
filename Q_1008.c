@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-// baekjoon 1008¹ø
+// baekjoon 1008
 
 int main(void)
 {
