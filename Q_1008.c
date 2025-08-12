@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-// 백준 1008번
+// baekjoon 1008번
 
 int main(void)
 {
